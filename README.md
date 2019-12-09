@@ -9,6 +9,9 @@ Seeing how multiple saves show up on the desktop GIT app too. This paragraph I'v
 
 And if I add a line now, before trying to delete the branch which the system thinks got merged OK?
 
-OK, I'll commit this then too.
+<<<<<<< Updated upstream
+OK, I'll commit this then too. What?
+=======
+>>>>>>> Stashed changes
 
 End
