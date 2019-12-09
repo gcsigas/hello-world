@@ -11,4 +11,6 @@ Adding a line on my desktop to a branch I created locally, seeing how this works
 
 Seeing how multiple saves show up on the desktop GIT app too. This paragraph I've added after a first save without a commit following that save. Well, let's see.
 
+And if I add a line now, before trying to delete the branch which the system thinks got merged OK?
+
 End
