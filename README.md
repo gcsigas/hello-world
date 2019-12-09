@@ -1,10 +1,14 @@
 # hello-world
-Doing another git tutorial to get to know it, I'll delete this later. Nothing to see here.
+Doing another GIT tutorial to get to know it, I'll delete this later. Nothing to see here.
 
 So I'm adding a few lines to this file to see how it works. I'm adding this to the readme-edits branch (I can't see where that is displayed except for in the address bar of the browser, doesn't seem too user friendly.)
 
 I'll see if I can remove the next underlined line when merging (or what the process is called.)
 
 Well, if there's no underlined line above this and below the one which said I'd remove one, I succeeded. :D
+
+Adding a line on my desktop to a branch I created locally, seeing how this works, I guess?
+
+Seeing how multiple saves show up on the desktop GIT app too. This paragraph I've added after a first save without a commit following that save. Well, let's see.
 
 End
