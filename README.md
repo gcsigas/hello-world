@@ -5,8 +5,6 @@ So I'm adding a few lines to this file to see how it works. I'm adding this to t
 
 I'll see if I can remove the next underlined line when merging (or what the process is called.)
 
-[This is a line I DON'T want in my master branch.]
-
 Well, if there's no underlined line above this and below the one which said I'd remove one, I succeeded. :D
 
 End
